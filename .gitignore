@@ -1,0 +1,8 @@
+.project
+.settings
+salesforce.schema
+Referenced Packages
+
+# macos section
+.DS_Store
+
