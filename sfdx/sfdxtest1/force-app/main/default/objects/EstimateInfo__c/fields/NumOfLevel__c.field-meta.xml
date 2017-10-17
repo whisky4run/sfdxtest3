@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>NumOfLevel__c</fullName>
+    <externalId>false</externalId>
+    <label>承認レベル番号</label>
+    <summarizedField>EstimateDetail__c.NumOfApproval__c</summarizedField>
+    <summaryForeignKey>EstimateDetail__c.Parent__c</summaryForeignKey>
+    <summaryOperation>max</summaryOperation>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>Summary</type>
+</CustomField>

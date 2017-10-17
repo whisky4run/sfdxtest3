@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<RecordType xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>RT_Approved</fullName>
+    <active>true</active>
+    <label>承認完了</label>
+    <picklistValues>
+        <picklist>ApprLevel__c</picklist>
+        <values>
+            <fullName>A 承認不要</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>B 課長承認</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>C 部長承認</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+    <picklistValues>
+        <picklist>ApprovalStatus__c</picklist>
+        <values>
+            <fullName>A%2E未承認</fullName>
+            <default>true</default>
+        </values>
+        <values>
+            <fullName>B%2E課長承認待ち</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>C%2E部長承認待ち</fullName>
+            <default>false</default>
+        </values>
+        <values>
+            <fullName>Z%2E承認済み</fullName>
+            <default>false</default>
+        </values>
+    </picklistValues>
+</RecordType>

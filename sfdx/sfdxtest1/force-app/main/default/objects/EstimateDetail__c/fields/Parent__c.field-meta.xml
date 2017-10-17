@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Parent__c</fullName>
+    <externalId>false</externalId>
+    <label>見積情報</label>
+    <referenceTo>EstimateInfo__c</referenceTo>
+    <relationshipLabel>見積明細</relationshipLabel>
+    <relationshipName>EstimateInfo</relationshipName>
+    <relationshipOrder>0</relationshipOrder>
+    <reparentableMasterDetail>false</reparentableMasterDetail>
+    <trackHistory>false</trackHistory>
+    <trackTrending>false</trackTrending>
+    <type>MasterDetail</type>
+    <writeRequiresMasterRead>false</writeRequiresMasterRead>
+</CustomField>

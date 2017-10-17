@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ValidationRule xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Approvar_Director</fullName>
+    <active>true</active>
+    <errorConditionFormula>AND( NumOfLevel__c >= 30,  ISBLANK( Approvar2__c ))</errorConditionFormula>
+    <errorDisplayField>Approvar2__c</errorDisplayField>
+    <errorMessage>部長を選択してください。</errorMessage>
+</ValidationRule>

@@ -1,0 +1,887 @@
+[
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508243500000,
+            "changeTime": 1508243500000,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508243500000,
+            "changeTime": 1508243500000,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 306,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "3cb810278aa4979eb58aa30be646b85b8ae62441",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508245058000,
+            "changeTime": 1508245058000,
+            "contentHash": "c7846bfbd8d16672fdf5a1220eec3d39142bed50",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/applications/EstimateApp_Lightning.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/applications/EstimateApp_Lightning.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 433,
+            "modifiedTime": 1508245058000,
+            "changeTime": 1508245058000,
+            "contentHash": "a93e941e1d02f5f45a0bee04a716038a453121c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 68,
+            "modifiedTime": 1508243500000,
+            "changeTime": 1508243500000,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/classes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "7623ac6a7682caaf82cc7dcc417215e5a4988dd5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/classes/EstimateDataUtil.cls",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/classes/EstimateDataUtil.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 559,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "ddd109bfe11fd9a654c2e83ca7c78bf1add4505e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/classes/EstimateDataUtil.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/classes/EstimateDataUtil.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "7c5945136a59f83dacd1f358b3f57ec242ee7bbe",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "14529ff5dfdf3cc22dee11b4377ed7e793b5979a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/layouts/EstimateDetail__c-ު%EF%FE%AE%EC%B5%FF%C4%FE%A6%A6%D2%E2%BC%D2%E9%F1%D2%E9%F3%D2%E9%AA%D2%E2%EA.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/layouts/EstimateDetail__c-ު%EF%FE%AE%EC%B5%FF%C4%FE%A6%A6%D2%E2%BC%D2%E9%F1%D2%E9%F3%D2%E9%AA%D2%E2%EA.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4102,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "0f51423fde606b102a80b7ee98e6cf70a7e43e7d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/layouts/EstimateInfo__c-ު%EF%FE%AE%EC%B5%E2%E0%D5%E1%A6%D2%E2%BC%D2%E9%F1%D2%E9%F3%D2%E9%AA%D2%E2%EA.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/layouts/EstimateInfo__c-ު%EF%FE%AE%EC%B5%E2%E0%D5%E1%A6%D2%E2%BC%D2%E9%F1%D2%E9%F3%D2%E9%AA%D2%E2%EA.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4026,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "bcabfbd69d4256f6cfdd489a6b4880688360ef3c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/layouts/PriceListCustom__c-%D2%E9%BD%D2%E9%A6%D2%E9+%D2%E2%E1%F5%A5%ED%B5%E1+%D2%E2%D7%D2%E9%A6%D2%E9+%D2%E2%BC%D2%E9%F1%D2%E9%F3%D2%E9%AA%D2%E2%EA.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/layouts/PriceListCustom__c-%D2%E9%BD%D2%E9%A6%D2%E9+%D2%E2%E1%F5%A5%ED%B5%E1+%D2%E2%D7%D2%E9%A6%D2%E9+%D2%E2%BC%D2%E9%F1%D2%E9%F3%D2%E9%AA%D2%E2%EA.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2367,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "0930d8a19bc1cb260b8e0d5f41a19c34b725406e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "8ee47ec1d5d7353e1b86b28c1de4ad4cf21fd951",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "aca7377244b46d0fa87c1bc6b246b99c7a9ea933",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/EstimateDetail__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/EstimateDetail__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2208,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "ffd1d2ad035e90ceadbd7a35127a6433d8f2464d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 374,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "d66c01942d67b2ff9f3326659785c01a6a70f4f6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/ApprLevel__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/ApprLevel__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1063,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "212b84eaf0a907d1d27d678578a05956eeb595c1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/ApprovalStatus__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/ApprovalStatus__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1271,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "48f768f17c73bdbfd3026e58908a871fc074a403",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/Approvar1__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/Approvar1__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 507,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "1e98b1e6e90b53eda85d2216a7976c8bfdbc019f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/Approvar2__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/Approvar2__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 507,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "2dcfd42cf0dfd6e583b189c3c8f5930d6590291a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/CPriceList__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/CPriceList__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 560,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "7679f32272d23caa1ca2649ca04c1c8ff131a4b7",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/NumOfApproval__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/NumOfApproval__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 560,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "e37e193ed9f5e6a56f09dfaa9bc428298c43e172",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/Number__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/Number__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 424,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "c6025a38d79ef5b6bf3849db9cf9881f168a387f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/Parent__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/Parent__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 654,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "04666d3b2af61654feacb899818dec4317a6c611",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/UnitPrice__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/fields/UnitPrice__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 460,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "b9acee837349ac61441443f4253f259d6bee0f8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/recordTypes",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/recordTypes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "e086ab099706a575a0df0e1758e9ccf450c4846b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/recordTypes/RT_Approved.recordType-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateDetail__c/recordTypes/RT_Approved.recordType-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1240,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "f1b2bb8a6b986a5b70bf9d9a89d0fb4dba70d172",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "da97aa6b31174ef40fd65c1d8bc0e7160d74f6c8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/EstimateInfo__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/EstimateInfo__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2083,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "05165aec9f5b3b369fca24c7eba3437b85edfaf4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 238,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "730a2be3457e3d4981da0657c034c928f5cf1581",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields/Approvar1__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields/Approvar1__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 501,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "3925c684cb24acaf6e89e291dc56dc9ddc67660d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields/Approvar2__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields/Approvar2__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 501,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "73fd7583e13ca4e230489e1649d86fea30d04940",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields/CopyPriceList__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields/CopyPriceList__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 558,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "f4cc099d4050cba7b803b8fd8669c54c0303f4a1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields/EstimateTo__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields/EstimateTo__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 556,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "90a8cae89248b93699ce1aa3e7296306fdad534b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields/NumOfLevel__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/fields/NumOfLevel__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 526,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "3dfd9ce2ae498b8015509d5ef85a8ec1a5719dd4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 216,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "d6c5f91d4db9e9f88480d71a4eb225ca2b2748e2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/validationRules",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/validationRules",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "5e16d37c62a93977aa5019e5e0c71af2e800664a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/validationRules/Approvar_Director.validationRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/validationRules/Approvar_Director.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "376857fca9af01ba53ccde5a959ec25cd87649b0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/validationRules/Approvar_Manager.validationRule-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/validationRules/Approvar_Manager.validationRule-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 420,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "dc5d77dc39d7768ebf7e4e6308e61268c655a02d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/webLinks",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/webLinks",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "ffe628f4ae58c2db674c60ea76d150ff03682723",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/webLinks/Approval.webLink-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/EstimateInfo__c/webLinks/Approval.webLink-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 629,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "1bcab86dfe63a4ea6594c8e1cde8c0e3897fa2a9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 170,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "f2af852d15d457c05292e7ded46f10ac33a8f759",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/PriceListCustom__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/PriceListCustom__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2102,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "4bc7325d026b506b771284f4d882c378776715c2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "7f29ca2f34f357b44d63f5f519af63245d942f16",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/fields/EndPrice__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/fields/EndPrice__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 407,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "9d3d82b3f74443fada51421dcef9a70f51a1d429",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/fields/UnitCost__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/fields/UnitCost__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 407,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "15ef31ed04b6b6f643d3149afbd02c531931b5b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 102,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/objects/PriceListCustom__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 349,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "c02821a33b64d995057f4a0494981b3958f4e6a2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 136,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "e3a87f6314b8b1bf655e763090b492503ca23120",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/tabs/EstimateInfo__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/tabs/EstimateInfo__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "8d451f0403cd1e85c627d7478536d26ea72ac0dc",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/tabs/PriceListCustom__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/tabs/PriceListCustom__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 227,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "67abc0a4e160ab36d05470be0119978a5b48af5f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/triggers",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/triggers",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 204,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "fb8050708a0506b238fb5e7cc6682b7ff6904467",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/triggers/EstDetailTrigger.trigger",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/triggers/EstDetailTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 701,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "ab523f9cfde3b98d89ae1d0b1699f8b344b1880e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/triggers/EstDetailTrigger.trigger-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/triggers/EstDetailTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "30c8e41caec1ea5c6adc2f83745a9c74f89f0dca",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/triggers/EstimateTrigger.trigger",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/triggers/EstimateTrigger.trigger",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 643,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "2982e1291bf5adb7d4ea526395764ba754d32aa4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/triggers/EstimateTrigger.trigger-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1/force-app/main/default/triggers/EstimateTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 178,
+            "modifiedTime": 1508245059000,
+            "changeTime": 1508245059000,
+            "contentHash": "e6cc7a7527d23b444308318c33f58a6e16bbbdb3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/stohru/workspace_oxygen/sfdxtest1",
+        {
+            "state": "n",
+            "sourcePath": "/Users/stohru/workspace_oxygen/sfdxtest1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 272,
+            "modifiedTime": 1508243521000,
+            "changeTime": 1508243521000,
+            "contentHash": "14a1ee14f74bba9516adcb8e913f6889db2f844e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]

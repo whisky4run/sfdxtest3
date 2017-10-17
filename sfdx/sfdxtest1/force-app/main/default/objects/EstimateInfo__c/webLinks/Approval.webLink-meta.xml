@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebLink xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Approval</fullName>
+    <availability>online</availability>
+    <displayType>button</displayType>
+    <linkType>javascript</linkType>
+    <masterLabel>承認しんせい</masterLabel>
+    <openType>onClickJavaScript</openType>
+    <protected>false</protected>
+    <url>{!REQUIRESCRIPT('/soap/ajax/38.0/connection.js')}
+{!REQUIRESCRIPT('/soap/ajax/38.0/apex.js')}
+var ret = sforce.apex.execute('EstimateApproval', 'submitAndProcessDetailApprovalRequest', {id:"{!EstimateInfo__c.Id}"});
+alert (ret);</url>
+</WebLink>
